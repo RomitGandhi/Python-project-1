@@ -1,2 +1,3 @@
-# Python-project-1
-This is the first python project
+# Norway Car Sales Demand Forecasting
+ Developed Demand Forecasts by creating a Machine Learning Model in Python for ‘Norway’s Car sales.
+ Used Decison Tree Regression Models
